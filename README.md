@@ -1,4 +1,4 @@
-graph
+![opengraph by Legify GmbH](http://data.sly.mn/PyzJ/opengraph.png)
 =====
 
 An enterprise Open Graph client for NodeJS.
@@ -6,12 +6,12 @@ An enterprise Open Graph client for NodeJS.
 Issues [![Build Status](https://travis-ci.org/Legify/graph.png)](https://travis-ci.org/Legify/graph)
 ------------
 
-Feel free to open an issue if you think anything specific to this fork should be discussed. PRs are welcome. See the above notice if you have questions regarding *graph*.
+Feel free to open an issue if you think anything specific to this fork should be discussed. PRs are welcome. See the above notice if you have questions regarding *opengraph*.
 
 Installation
 ------------
 
-  `npm install graph`
+  `npm install opengraph`
 
 ## License
 
