@@ -1,7 +1,7 @@
 {
         "name": "opengraph",
         "description": "A Open Graph API client for Node.js.",
-        "homepage": "https://github.com/Legify/graph",
+        "homepage": "https://github.com/Legify/opengraph",
         "author": {
                 "name": "Legify GmbH",
                 "email": "kenan@legify.com",
@@ -40,7 +40,7 @@
                 "vows": "0.6.x"
         },
         "bugs": {
-                "url": "https://github.com/Legify/graph/issues"
+                "url": "https://github.com/Legify/opengraph/issues"
         },
         "licenses": [{
                         "type": "MIT",
@@ -48,6 +48,6 @@
         }],
         "repository": {
                 "type": "git",
-                "url": "git://github.com/Legify/graph.git"
+                "url": "git://github.com/Legify/opengraph.git"
         }
 }
