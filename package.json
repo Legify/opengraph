@@ -28,16 +28,27 @@
                 "opengraph",
                 "open"
         ],
-        "version": "1.0.1",
+        "version": "1.0.2",
         "engines": {
                 "node": ">=0.4.0"
         },
         "main": "./bin/graph",
         "dependencies": {
-                "qs": "0.5.x"
+                "qs": "*",
+                "json-stringify-safe": "*",
+                "forever-agent": "*",
+                "tunnel-agent": "*",
+                "http-signature": "*",
+                "hawk": "*",
+                "aws-sign": "*",
+                "oauth-sign": "*",
+                "cookie-jar": "*",
+                "node-uuid": "*",
+                "mime": "*",
+                "form-data": "*"
         },
         "devDependencies": {
-                "vows": "0.6.x"
+                "vows": "*"
         },
         "bugs": {
                 "url": "https://github.com/Legify/opengraph/issues"
