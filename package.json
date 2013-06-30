@@ -1,6 +1,6 @@
 {
-        "name": "graph",
-        "description": "A Facebook Graph API client for Node.js.",
+        "name": "opengraph",
+        "description": "A Open Graph API client for Node.js.",
         "homepage": "https://github.com/Legify/graph",
         "author": {
                 "name": "Legify GmbH",
@@ -24,7 +24,9 @@
                 "wrapper",
                 "client",
                 "sdk",
-                "login"
+                "login",
+                "opengraph",
+                "open"
         ],
         "version": "1.0.0",
         "engines": {
