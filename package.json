@@ -1,0 +1,51 @@
+{
+        "name": "graph",
+        "description": "A Facebook Graph API client for Node.js.",
+        "homepage": "https://github.com/Legify/graph",
+        "author": {
+                "name": "Legify GmbH",
+                "email": "kenan@legify.com",
+                "url": "http://legify.com/"
+        },
+        "contributors": [{
+                "name": "Kenan Sulayman",
+                "email": "kenan@legify.com",
+                "url": "http://legify.com/"
+        }, {
+                "name": "Cristiano Oliveira",
+                "email": "ocean.cris@gmail.com>"
+        }],
+        "keywords": [
+                "facebook",
+                "api",
+                "graph",
+                "oauth",
+                "fb",
+                "wrapper",
+                "client",
+                "sdk",
+                "login"
+        ],
+        "version": "1.0.0",
+        "engines": {
+                "node": ">=0.4.0"
+        },
+        "main": "./bin/graph",
+        "dependencies": {
+                "qs": "0.5.x"
+        },
+        "devDependencies": {
+                "vows": "0.6.x"
+        },
+        "bugs": {
+                "url": "https://github.com/Legify/graph/issues"
+        },
+        "licenses": [{
+                        "type": "MIT",
+                        "url": "http://www.opensource.org/licenses/mit-license.php"
+        }],
+        "repository": {
+                "type": "git",
+                "url": "git://github.com/Legify/graph.git"
+        }
+}
